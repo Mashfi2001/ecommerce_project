@@ -8,7 +8,8 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9db3cac7-659c-47a2-a92e-9df2e4baac04" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/255e1a29-a335-4264-9e93-7c2c58cc52c5" />
 # Customer pannel(with working search bar)
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b57fcad3-2e36-4380-bbbd-f004239e5bf9" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6aea2e24-3152-4bf3-9bc6-3e37f0c996d4" />
+
 
 
 
